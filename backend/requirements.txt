@@ -1,0 +1,8 @@
+django
+djoser
+djangorestframework
+django-rest-swagger
+django-allauth
+django-rest-auth
+django-filter
+django-cors-headers
